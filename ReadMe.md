@@ -20,4 +20,4 @@ To clear current data, just empty `data/data.txt` content.
 
 <br>
 <hr>
-<i>PRs are welcome to improve security.</i>
+<i>PRs are welcome to improve features and security.</i>
