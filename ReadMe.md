@@ -14,6 +14,8 @@ Example: `http://192.168.1.1/localshare`.
 
 Make sure to allow the Apache service in the server's firewall settings.
 
+To upload large files, <a href="https://www.techawaken.com/upload-large-files-php">tweak your `php.ini`</a> configuration.
+
 To clear current data, just empty `data/data.txt` content.
 
 <br>
