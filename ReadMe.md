@@ -1,14 +1,14 @@
-#Description
+# Description
 Personal file-sharing tool through localhost.
 
 <br>
 
-#Installation
+# Installation
 Clone or download this repository to your local server or `htdocs` folder.
 
 <br>
 
-#Usage
+# Usage
 Access this application through the server's local IP address on a different device in the same network.
 Example: `http://192.168.1.1/localshare`.
 
