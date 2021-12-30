@@ -1,0 +1,5 @@
+.idea
+data/*
+!data/___.txt
+files/*
+!files/___.txt
